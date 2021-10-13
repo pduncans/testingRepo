@@ -14,7 +14,7 @@
 					"architecture": "megaavr",
 					"version": "1.3.6",
 					"category": "Contributed",
-					"url": "https://github.com/pduncans/DxCore/archive/master.tar.gz",
+					"url": "https://github.com/pduncans/DxCore/archive/master.tar.bz2",
 					"archiveFileName": "DxCore-1.3.6.tar.bz2",
 					"checksum": "SHA-256:38d9ffeec51d7274640f580a60d31dfb5afeaa38c950349aa45a8a313626d98e",
 					"size": "41796",
