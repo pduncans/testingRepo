@@ -26,7 +26,7 @@
 							"name": "AVR DB-series: AVR128DB28, AVR128DB32, AVR128DB48, AVR128DB64, AVR64DB28, AVR64DB32, AVR64DB48, AVR64DB64, AVR32DB28, AVR32DB32, AVR32DB48 <br/>"
 						},
 						{
-							"name": "Works with Microchip Curiosity Nano boards. <br/>"
+							"name": "Testing Works with Microchip Curiosity Nano boards. <br/>"
 						}
 					],
 					"toolsDependencies": [
