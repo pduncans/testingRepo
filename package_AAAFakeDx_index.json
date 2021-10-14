@@ -16,7 +16,7 @@
 					"category": "fake dxcore",
 					"url": "https://github.com/pduncans/final-dx/archive/refs/heads/master.zip",
 					"archiveFileName": "DxCore-master.zip",
-					"checksum": "SHA-256:38d9ffeec51d7274640f580a60d31dfb5afeaa38c950349aa45a8a313626d98e",
+					"checksum": "SHA-256:9729fc5b463dcc56bbb8782640235238b7aaa37f162611665eb71d1dec90c9a5",
 					"size": "91500",
 					"boards": [
 						{
