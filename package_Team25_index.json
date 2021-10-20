@@ -20,7 +20,7 @@
 					"url": "https://github.com/Emsloan/Microchip-DA48/archive/refs/heads/master.zip",
 					"archiveFileName": "master.zip",
 					"checksum": "SHA-256:1c6817da621100ca201d5fe5f85e4c62f825a485d853b7fdb5a5a1e21205cab9",
-					"size": "875098",
+					"size": "100000",
 					"boards": [
 						{
 							"name": "AVR128DA48"
