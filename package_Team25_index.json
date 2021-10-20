@@ -1,0 +1,51 @@
+{
+	"packages": [
+		{
+			"name": "Microchip",
+			"maintainer": "ASU Capstone Team 25",
+			"websiteURL": "https://github.com/Emsloan/Microchip-DA48",
+			"email": "emsloan@asu.edu",
+			"help": {
+				"online": "https://github.com/Emsloan/Microchip-DA48"
+			},
+			"platforms": [
+				{
+					"name": "Team 25 Board",
+					"architecture": "megaavr",
+					"version": "1.0.0",
+					"category": "arduino",
+					"help": {
+						"online": "https://github.com/Emsloan/Microchip-DA48.git"
+					},
+					"url": "https://github.com/Emsloan/Microchip-DA48/archive/refs/heads/master.zip",
+					"archiveFileName": "master.zip",
+					"checksum": "SHA-256:625343b88c25ca438858cb1e81778bd08c0745e5df77f78bcf9a92c21ad2fe82",
+					"size": "875098",
+					"boards": [
+						{
+							"name": "AVR128DA48"
+						}
+					],
+					"toolsDependencies": [
+						{
+							"packager": "arduino",
+							"name": "avr-gcc",
+							"version": "7.3.0-atmel3.6.1-arduino5"
+						},
+						{
+							"packager": "arduino",
+							"name": "avrdude",
+							"version": "6.3.0-arduino17"
+						},
+						{
+							"packager": "arduino",
+							"name": "arduinoOTA",
+							"version": "1.3.0"
+						}
+					]
+				}
+			],
+			"tools": []
+		}
+	]
+}
