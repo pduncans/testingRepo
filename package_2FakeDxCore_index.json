@@ -14,9 +14,9 @@
 					"architecture": "megaavr",
 					"version": "1.3.6",
 					"category": "Contributed",
-					"url": "https://github.com/pduncans/DxCore/archive/refs/heads/master.zip",
+					"url": "https://github.com/pduncans/DA-48-tester/archive/refs/heads/master.zip",
 					"archiveFileName": "DxCore-1.3.6.tar.bz2",
-					"checksum": "SHA-256:e258de626190eee178cf69629869dc21f18a73163327a900560d6bc30a0b5cfa",
+					"checksum": "SHA-256:cde638be9b2c2ec5b7839da90a825444cc944c3645d7bf32506937d8b2341b27",
 					"size": "590652",
 					"boards": [
 						{
