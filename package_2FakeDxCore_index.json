@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{
-			"name": "Fake DX",
+			"name": "Dx",
 			"maintainer": "pduncans",
 			"websiteURL": "https://github.com/pduncans/testingRepo",
 			"email": "pduncans@asu.edu",
@@ -25,7 +25,7 @@
 					],
 					"toolsDependencies": [
 						{
-							"packager": "DxCore",
+							"packager": "Dx",
 							"name": "avr-gcc",
 							"version": "7.3.0-atmel3.6.1-azzy1"
 						},
