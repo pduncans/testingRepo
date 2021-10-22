@@ -10,7 +10,7 @@
 			},
 			"platforms": [
 				{
-					"name": "Final Fake DxCore",
+					"name": "DxCore",
 					"architecture": "megaavr",
 					"version": "1.0.0",
 					"category": "fake dxcore",
