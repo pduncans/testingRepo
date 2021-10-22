@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{
-			"name": "DxCore",
+			"name": "Fake DX",
 			"maintainer": "pduncans",
 			"websiteURL": "https://github.com/pduncans/testingRepo",
 			"email": "pduncans@asu.edu",
@@ -10,7 +10,7 @@
 			},
 			"platforms": [
 				{
-					"name": "DxCore",
+					"name": "Dx",
 					"architecture": "megaavr",
 					"version": "1.3.6",
 					"category": "Contributed",
