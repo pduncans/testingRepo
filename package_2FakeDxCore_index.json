@@ -1,7 +1,7 @@
 {
 	"packages": [
 		{
-			"name": " 2 Fake DxCore",
+			"name": "DxCore",
 			"maintainer": "pduncans",
 			"websiteURL": "https://github.com/pduncans/testingRepo",
 			"email": "pduncans@asu.edu",
