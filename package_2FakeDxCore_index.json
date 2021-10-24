@@ -14,9 +14,9 @@
 					"architecture": "megaavr",
 					"version": "1.3.6",
 					"category": "Contributed",
-					"url": "https://github.com/pduncans/final-dx/archive/refs/heads/master.zip",
+					"url": "https://github.com/pduncans/DA-48-tester/archive/refs/heads/master.zip",
 					"archiveFileName": "master.zip",
-					"checksum": "SHA-256:9729fc5b463dcc56bbb8782640235238b7aaa37f162611665eb71d1dec90c9a5",
+					"checksum": "SHA-256:12ad507ea97f0dc579f073beb9daa2e6cceb814851a02741d5ccd4bf11fe0cbd",
 					"size": "100000",
 					"boards": [
 						{
