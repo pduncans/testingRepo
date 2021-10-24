@@ -12,11 +12,11 @@
 				{
 					"name": "Team 25 core",
 					"architecture": "megaavr",
-					"version": "1.3.6",
+					"version": "1.0.0",
 					"category": "Contributed",
 					"url": "https://github.com/pduncans/DA-48-tester/archive/refs/heads/master.zip",
 					"archiveFileName": "master.zip",
-					"checksum": "SHA-256:ef08f53490748d7e33783781eddeaa3f7ed5b3af718c83ccc394eeeeea1a2e25",
+					"checksum": "SHA-256:033769f2dcf7de0c31909a51fbef5628de0e32f54ef93b1ad8892ea38924bc5e",
 					"size": "100000",
 					"boards": [
 						{
