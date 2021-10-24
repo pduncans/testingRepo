@@ -17,9 +17,9 @@
 					"help": {
 						"online": "https://github.com/Emsloan/Microchip-DA48.git"
 					},
-					"url": "https://github.com/Emsloan/Microchip-DA48/archive/refs/heads/master.zip",
+					"url": "https://github.com/pduncans/final-dx/archive/refs/heads/master.zip",
 					"archiveFileName": "master.zip",
-					"checksum": "SHA-256:1c6817da621100ca201d5fe5f85e4c62f825a485d853b7fdb5a5a1e21205cab9",
+					"checksum": "SHA-256:9729fc5b463dcc56bbb8782640235238b7aaa37f162611665eb71d1dec90c9a5",
 					"size": "100000",
 					"boards": [
 						{
