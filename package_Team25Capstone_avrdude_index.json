@@ -1,0 +1,38 @@
+{
+	"packages": [
+		{
+			"name": "Microchip",
+			"maintainer": "ASU Capstone Team 25",
+			"websiteURL": "https://github.com/Emsloan/Microchip-DA48",
+			"email": "emsloan@asu.edu",
+			"help": {
+				"online": "https://github.com/Emsloan/Microchip-DA48"
+			},
+			"platforms": [
+				{
+					"name": "Team 25 core",
+					"architecture": "megaavr",
+					"version": "1.0.0",
+					"category": "Contributed",
+					"url": "https://github.com/Emsloan/Microchip-DA48/archive/refs/heads/master.zip",
+					"archiveFileName": "Microchip-DA48-master.zip",
+					"checksum": "SHA-256:87ddb9416625115d108e3318925cdd07b9fda34f096456b34c0830afbd38b27d",
+					"size": "133000",
+					"boards": [
+						{
+							"name": "AVR128DA48"
+						}
+					],
+					"toolsDependencies": [
+						{
+							"packager": "arduino",
+							"name": "avrdude",
+							"version": "6.3.0-arduino18"
+						}
+					]
+				}
+			],
+			"tools": []
+		}
+	]
+}
