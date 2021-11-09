@@ -19,7 +19,7 @@
 					},
 					"url": "https://github.com/SpenceKonde/ATTinyCore/archive/v1.0.4.tar.gz",
 					"archiveFileName": "ATTinyCore-1.0.4.tar.gz",
-					"checksum": "SHA-256:c647ad9efebbb44ce50153c0598b8152b6df381d0a77333e3f75c9afddad33bf",
+					"checksum": "SHA-256:c647ad9efebbb44ce50153c0598b8152b6df381d0a77333e3f75c9afddad33b1",
 					"size": "249576",
 					"boards": [
 						{
